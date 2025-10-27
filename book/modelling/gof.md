@@ -18,7 +18,7 @@ Comparison between measured and predicted wave heights during a morning period. 
 ```
 
 
-Just using the above plot, we can see that the model tends to overpredict for taller waves. We can also see that there is a big variation between the actual data and our model.  But **how can we measure this?** 
+Just using the above plot, we can see that the model tends to underpredict for taller waves. We can also see that there is a big variation between the actual data and our model.  But **how can we measure this?** 
 
 ## Square differences
 
